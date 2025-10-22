@@ -1,4 +1,4 @@
-# Project1_Superstore_Dataset
+# R-Project_Superstore_Dataset
 
 This project analyzed a global superstore dataset (2011–2014) using R to explore business performance and forecast future sales and profit trends.
 
